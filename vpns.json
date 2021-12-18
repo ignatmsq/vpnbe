@@ -3,15 +3,15 @@
   "vpn_item" : [
     {
       "id" : "1",
-      "ovpn_path" : ""
+      "ovpn_path" : "https://github.com/ignatmsq/vpnbe/blob/main/1.ovpn"
     },
     {
       "id" : "1",
-      "ovpn_path" : ""
+      "ovpn_path" : "https://github.com/ignatmsq/vpnbe/blob/main/2.ovpn"
     },
     {
       "id" : "3",
-      "ovpn_path" : ""
+      "ovpn_path" : "https://github.com/ignatmsq/vpnbe/blob/main/3.ovpn"
     }
   ]
 }
