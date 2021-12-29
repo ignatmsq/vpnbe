@@ -12,6 +12,14 @@
     {
       "id" : "3",
       "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/3.ovpn"
+    },
+    {
+      "id" : "4",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/4.ovpn"
+    },
+    {
+      "id" : "5",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/5.ovpn"
     }
   ]
 }
