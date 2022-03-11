@@ -20,6 +20,26 @@
     {
       "id" : "5",
       "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/5.ovpn"
+    },
+    {
+      "id" : "6",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/6.ovpn"
+    },
+    {
+      "id" : "7",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/7.ovpn"
+    },
+    {
+      "id" : "8",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/8.ovpn"
+    },
+    {
+      "id" : "9",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/9.ovpn"
+    },
+    {
+      "id" : "10",
+      "ovpn_path" : "https://raw.githubusercontent.com/ignatmsq/vpnbe/main/10.ovpn"
     }
   ]
 }
